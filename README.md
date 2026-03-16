@@ -1,12 +1,20 @@
 # E-Commerce Sales Dashboard (Power BI)
 
 ## Project Overview
-This project presents an E-commerce Sales Dashboard created using Power BI. The dashboard helps analyze sales performance and provides insights into revenue, product performance, and regional sales distribution.
+This project presents an E-commerce Sales Dashboard created using Power BI. The dashboard analyzes sales performance and provides insights into revenue, product performance, and regional sales trends.
 
 ## Tools Used
 - Power BI
 - Data Visualization
 - Data Analysis
+
+## Dataset Files
+The dashboard is built using the following datasets:
+
+- Orders.csv
+- Details.csv
+
+These datasets contain information about customer orders, products, sales amount, quantity, and profit.
 
 ## Key Metrics Analyzed
 - Total Sales
@@ -16,15 +24,12 @@ This project presents an E-commerce Sales Dashboard created using Power BI. The 
 
 ## Dashboard Insights
 - Identify top performing product categories
-- Analyze sales trends across different months
+- Analyze monthly sales trends
 - Compare sales performance across regions
-- Track overall revenue and profit
+- Track revenue and profit
 
 ## Dashboard Features
 - Interactive filters
 - Category-wise sales analysis
 - Region-wise performance visualization
-- Easy-to-understand charts and graphs
-
-## Purpose
-The goal of this project is to demonstrate how Power BI can be used to transform raw e-commerce data into meaningful business insights through interactive dashboards.
+- Clear charts and visuals for business insights
